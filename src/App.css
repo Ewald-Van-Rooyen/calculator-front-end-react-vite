@@ -1,0 +1,20 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  min-width: 25vw;
+  width: 20vw;
+}
+
+.App {
+  margin: auto;
+  background-color: black;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  #root {
+    width: 100vw;
+  }
+}

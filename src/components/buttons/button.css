@@ -1,0 +1,39 @@
+.button-size {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    font-size: 25px;
+    color: white;
+    border: none;
+}
+
+.yellow-button {
+    background-color: #FF9500;
+}
+
+.grey-button {
+    background-color: #505050;
+}
+
+.grey-button:hover {
+    opacity: 50%;
+    border-color: #505050;
+}
+
+.light-grey-button {
+    background-color: #D4D4D2;
+}
+
+.light-grey-button:hover {
+    opacity: 50%;
+    border-color: #D4D4D2;
+}
+
+.yellow-button:hover{
+    opacity: 50%;
+    border-color: #FF9500;
+}
+
+.buttonColumn{
+    padding-bottom: 10px;
+}

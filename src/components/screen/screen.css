@@ -1,0 +1,9 @@
+.screen-container {
+    color: white;
+    float: right;
+    font-size: 45px;
+    min-height: 10vh;
+    text-align: right;
+    word-wrap: break-word;
+    padding-bottom: 10px;
+}
